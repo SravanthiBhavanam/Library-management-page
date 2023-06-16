@@ -1,0 +1,37 @@
+#book-list-section {
+  margin-top: 20px;
+}
+
+.book {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+
+#search-section {
+  margin-top: 20px;
+}
+
+#suggestion-list {
+  list-style: none;
+  padding: 0;
+  margin:0;
+
+#filter-section {
+  margin-top: 20px;
+}
+
+
+#cart-section {
+  margin-top: 20px;
+}
+
+
+h2 {
+  margin-top: 0;
+}
+
+button {
+  cursor: pointer;
+}
